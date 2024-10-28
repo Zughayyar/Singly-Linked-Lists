@@ -121,4 +121,4 @@ my_list.add_to_front("are").add_to_front("Linked lists").add_to_back("fun").add_
 
 #my_list.remove_val("Linked lists").print_values()
 
-my_list.inser_at("n",4).print_values()
+my_list.inser_at("n",2).print_values()
